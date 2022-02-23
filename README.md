@@ -1,1 +1,1 @@
-# Gen_Contra_python
+# GGENERADOR DE CONTRASEÑAS
